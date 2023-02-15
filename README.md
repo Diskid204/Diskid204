@@ -8,7 +8,7 @@
 <hr>
 <h2>About me:</h2>
 <p align="left"> 
- <a href="./"><img src="https://komarev.com/ghpvc/?username=RuralAnemone&label=Profile Visitors&color=001eff&style=flat" alt="RuralAnemone" /></a>
+ <a href="./"><img src="https://komarev.com/ghpvc/?username=Diskid204&label=Profile Visitors&color=001eff&style=flat" alt="RuralAnemone" /></a>
   <a href="https://3kh0.ruralanemone.tech/dump/redirect.html?to=https%3A%2F%2Fgithub.com%2Fruralanemone&local=true"><img src="https://img.shields.io/badge/OS-windows-lightgrey/?logo=windows" alt="os"></a>
 
 - 🔭 I’m currently working on nothing
