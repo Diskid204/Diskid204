@@ -3,7 +3,7 @@
 <br>
 <div align="center">
 <h2 align="left">Stats</h2>
-<p><img  src="https://github-readme-stats.vercel.app/api/?username=Diskid204&theme=dracula&hide_border=true&hide_title=true&count_private=true" alt="Diskid204" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/?username=Diskid204&theme=gotham&hide_border=true&hide_title=true&count_private=true" alt="Diskid204" /></p>
  
 - 🔭 I’m currently working on nothing
   
