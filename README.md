@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hey;I'm+a+self+proclaimed+game+developer;What+projects+am+I+working+on%3F;I'm+spending+my+time+trying+to+learn+C%2B%2B;And+also+trying+figure+out+how+to+use+Unreal+Engine;I+have+no+clue+what+I'm+doing;I+self+proclaimed.+;Anyways+why+are+you+still+here;Go+on;Look+at+my+empty+projects+screen;Are+you+still+here%3F;Nerd%F0%9F%A4%93)](https://git.io/typing-svg)
-### Hi there 🤓
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hey;I'm+a+self+proclaimed+game+developer;What+projects+am+I+working+on%3F;I'm+spending+my+time+trying+to+learn+C%2B%2B;And+also+trying+figure+out+how+to+use+Unreal+Engine;I+have+no+clue+what+I'm+doing;I+self+proclaimed.+;Anyways+why+are+you+still+here;Go+on;Look+at+my+empty+projects+screen;Are+you+still+here%3F;Nerd%F0%9F%A4%93" alt="Typing SVG" /></a>
+<h1 align ="center"> Hi nerd. I'm Diskid<h1>
+<h3 align="center">  A self proclamimed game developer who has no idea what I'm doing </h3>
 
 
 <!--
