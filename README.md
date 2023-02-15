@@ -1,7 +1,12 @@
 <h1 align ="center"> Hi. I'm Diskid<h1>
 <h3 align="center">  A self proclamimed game developer who has no idea what he's doing </h3>
+ <p><img  src="https://github-readme-stats.vercel.app/api/?username=Diskid204&theme=dracula&hide_border=true&hide_title=true&count_private=true" alt="Diskid204" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Diskid204e&theme=dracula&mode=weekly" alt="Diskid204" /></p><br>
+  
 - 🔭 I’m currently working nothing
+  
 - 🌱 I’m currently learning C++
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apidiskid204=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
