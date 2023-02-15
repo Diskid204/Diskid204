@@ -6,6 +6,11 @@
 <p><img src="https://github-readme-stats.vercel.app/api/?username=Diskid204&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" alt="Diskid204" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Diskid204&theme=tokyonight" alt="Diskid204" /></p><br>
 <hr>
+<h2>About me:</h2>
+<p align="left"> 
+ <a href="./"><img src="https://komarev.com/ghpvc/?username=RuralAnemone&label=Profile Visitors&color=001eff&style=flat" alt="RuralAnemone" /></a>
+  <a href="https://3kh0.ruralanemone.tech/dump/redirect.html?to=https%3A%2F%2Fgithub.com%2Fruralanemone&local=true"><img src="https://img.shields.io/badge/OS-windows-lightgrey/?logo=windows" alt="os"></a>
+
 - 🔭 I’m currently working on nothing
   
 - 🌱 I’m currently learning C++
