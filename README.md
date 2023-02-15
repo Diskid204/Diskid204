@@ -1,8 +1,8 @@
 <h1 align ="center"> Hi. I'm Diskid<h1>
 <h3 align="center">  A self proclamimed game developer who has no idea what he's doing </h3>
-🔭 I’m currently working nothing
-🌱 I’m currently learning C++
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiDiskid204=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working nothing
+- 🌱 I’m currently learning C++
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apidiskid204=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
