@@ -5,6 +5,8 @@
 <h2 align="left">Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api/?username=Diskid204&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" alt="Diskid204" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Diskid204&theme=tokyonight" alt="Diskid204" /></p><br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <hr>
 - 🔭 I’m currently working on nothing
   
