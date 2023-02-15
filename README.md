@@ -2,6 +2,7 @@
 <h3 align="center">  I'm a self proclamimed game developer who has no idea what he's doing </h3>
 <p><img  src="https://github-readme-stats.vercel.app/api/?username=Diskid204&theme=dracula&hide_border=true&hide_title=true&count_private=true" alt="Diskid204" /></p>
  <a href="https://www.youtube.com">Link to youtube!?</a>  
+ <br>
 - 🔭 I’m currently working on nothing
   
 - 🌱 I’m currently learning C++
