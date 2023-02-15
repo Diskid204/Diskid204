@@ -1,5 +1,8 @@
 <h1 align ="center"> Hi. I'm Diskid<h1>
 <h3 align="center">  I'm a self proclamimed game developer who has no idea what he's doing </h3>
+<br>
+<div align="center">
+<h2 align="left">Stats</h2>
 <p><img  src="https://github-readme-stats.vercel.app/api/?username=Diskid204&theme=dracula&hide_border=true&hide_title=true&count_private=true" alt="Diskid204" /></p>
  
 - 🔭 I’m currently working on nothing
