@@ -6,8 +6,6 @@
 - 🔭 I’m currently working nothing
   
 - 🌱 I’m currently learning C++
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apidiskid204=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
