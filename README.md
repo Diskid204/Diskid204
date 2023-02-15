@@ -9,7 +9,7 @@
 <h2>About me:</h2>
 <p align="left"> 
  <a href="./"><img src="https://komarev.com/ghpvc/?username=Diskid204&label=Profile Visitors&color=001eff&style=flat" alt="RuralAnemone" /></a>
- <img src="https://img.shields.io/badge/OS-windows-lightgrey/?logo=windows" alt="os"></a>
+ <img src="https://img.shields.io/badge/OS-windows-lightgrey/?logo=windows" alt="os">
 
 - 🔭 I’m currently working on nothing
   
