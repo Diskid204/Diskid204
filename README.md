@@ -1,5 +1,5 @@
 <h1 align ="center"> Hi. I'm Diskid<h1>
-<h3 align="center">  I'm a self proclamimed game developer who has no idea what he's doing </h3>
+<h3 align="center">  I'm a self proclaimed game developer who has no idea what he's doing </h3>
 <br>
 <div align="center">
 <h2 align="left">Stats</h2>
